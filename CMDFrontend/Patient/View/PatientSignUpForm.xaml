@@ -1,0 +1,197 @@
+﻿<Window x:Class="CMDFrontend.Patient.View.PatientSignUpForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CMDFrontend.Patient.View"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        MaxHeight="900" MinHeight="700"
+        MaxWidth="500" MinWidth="500"
+        Title="PatientSignUpForm" Height="700" Width="500">
+    <Window.Resources>
+        <Style x:Key="LabelStyling" TargetType="Label">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5,5,2,5"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="FontSize" Value="15"/>
+        </Style>
+        <Style x:Key="TextStyling" TargetType="TextBox">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Background" Value="#C4D7E0"/>
+             <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="Margin" Value="5,5"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="1"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Sign Up"
+                   FontStyle="Italic"
+                   FontSize="25"
+                   FontWeight="DemiBold"
+                   Height="40"/>
+                <Button Background="White" Click="Exit_click" Margin="330,0" BorderThickness="0" BorderBrush="White">
+                    <Image Source="\Image\RedCross.png"/>
+                </Button>
+            </StackPanel>
+            <Label Content="In a Easy Way                                                         '*' Fields are mandatory. "
+                   FontSize="15"
+                   FontStyle="Italic"/>
+        </StackPanel>
+        <Grid Grid.Row="1" 
+              Background="LightGray"
+              Margin="5,0"/>
+        <Grid Grid.Row="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="80"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+
+                    </Grid.RowDefinitions>
+                    <Label Grid.Row="0"  Content="Upload Photo:"
+                       Style="{StaticResource LabelStyling}"/>
+
+
+
+
+                    <Label Grid.Row="1"  Content="Name* :"
+                       Style="{StaticResource LabelStyling}"/>
+
+                    <Label Grid.Row="2"  Content="Mobile Number* :"
+                       Style="{StaticResource LabelStyling}"/>
+                    <Label Grid.Row="3"  Content="E-mail* :"
+                        Style="{StaticResource LabelStyling}"/>
+                    <Label Grid.Row="4"  Content="Password* :"
+                       Style="{StaticResource LabelStyling}"/>
+                    <Label Grid.Row="5"  Content="Comfirm Password* :"
+                        Style="{StaticResource LabelStyling}"/>
+                    <Label Grid.Row="6"  Content="Gender:"
+                       Style="{StaticResource LabelStyling}"/>
+                    <Label Grid.Row="7"  Content="City* :"
+                        Style="{StaticResource LabelStyling}"/>
+                    <Label Grid.Row="8"  Content="State* :"
+                       Style="{StaticResource LabelStyling}"/>
+                    <Label Grid.Row="9"  Content="Country* :"
+                       Style="{StaticResource LabelStyling}"/>
+                    <Label Grid.Row="10"  Content="Blood Group* :"
+                        Style="{StaticResource LabelStyling}"/>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="80"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBox x:Name="PatientImageTB" Grid.Row="0"
+                              Width="200"
+                         Background="#C4D7E0"
+                         Foreground="Black"
+                          FontSize="12"
+                       FontStyle="Italic"
+                          Margin="5,5,5,5"
+                             HorizontalAlignment="Left"/>
+                    <Image Name="patuploadimage" Grid.Row="0" Width="60" Margin="245,4,9,4"  />
+                    <Button Name="checkpatimagebutton" Foreground="White" Background="#06283D" Content="Upload" Grid.Row="1" Width="100" Height="35" Margin="240,5,0,5" Click="checkpatimagebutton_Click">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="15"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+
+                    <TextBox x:Name="PatientName"
+                        Grid.Row="1" Style="{StaticResource TextStyling}"/>
+                    <TextBox x:Name="PatientMobileNumber" 
+                        Grid.Row="2"  Style="{StaticResource TextStyling}"/>
+                    <TextBox x:Name="PatientEmail" 
+                        Grid.Row="3" Style="{StaticResource TextStyling}"/>
+                    <TextBox x:Name="PatientPassword"  
+                        Grid.Row="4" Style="{StaticResource TextStyling}"/>
+                    <PasswordBox x:Name="PatientConfirmPassword"
+                        Grid.Row="5" Width="200"
+                         Background="#C4D7E0"
+                         Foreground="Black"
+                          FontSize="12"
+                       FontStyle="Italic"
+                          Margin="5,5,5,5"
+                             HorizontalAlignment="Left"/>
+                    <ComboBox x:Name="PatientGender" 
+                              Grid.Row="6" Width="70"
+                              HorizontalAlignment="Left"
+                              Margin="5">
+                        <ComboBoxItem FontStyle="Italic">Male</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">Female</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">Other</ComboBoxItem>
+                    </ComboBox>
+                    <TextBox x:Name="PatientCity" 
+                             Grid.Row="7" Style="{StaticResource TextStyling}"/>
+                    <TextBox x:Name="PatientState" Grid.Row="8" Style="{StaticResource TextStyling}"/>
+                    <TextBox x:Name="PatientCountry" Grid.Row="9" Style="{StaticResource TextStyling}"/>
+                    <ComboBox x:Name="PatientBloodGroup" Grid.Row="10" Width="70"
+                              HorizontalAlignment="Left"
+                               Margin="5">
+                        <ComboBoxItem FontStyle="Italic">A+</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">A-</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">B+</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">B-</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">O+</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">O-</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">AB+</ComboBoxItem>
+                        <ComboBoxItem FontStyle="Italic">AB-</ComboBoxItem>
+                    </ComboBox>
+                    <Button x:Name="PatientSignUp" Grid.Row="11" 
+                            HorizontalAlignment="Left" 
+                            Content="Sign Up"
+                            Foreground="White"
+                            FontSize="10"
+                            Width="80"
+                            Height="25"
+                            Margin="10"
+                            Background="#06283D" Click="AddPatient">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" 
+                                        Value="5"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

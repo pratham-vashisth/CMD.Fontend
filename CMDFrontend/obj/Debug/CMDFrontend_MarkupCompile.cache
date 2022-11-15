@@ -1,0 +1,20 @@
+﻿CMDFrontend
+
+
+winexe
+C#
+.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\
+CMDFrontend
+none
+false
+DEBUG;TRACE
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\App.xaml
+18-648490666
+
+39-18132281
+125623180050
+Appointment\View\AppointmentConfirmation.xaml;Appointment\View\Step1.xaml;Appointment\View\Step2.xaml;Appointment\View\Step3.xaml;Doctor\View\AccountSetting.xaml;Doctor\View\Dashboard.xaml;Doctor\View\DocSignUp.xaml;Doctor\View\FeedbackForm.xaml;Doctor\View\HomePage.xaml;Doctor\View\Patient.xaml;Doctor\View\PrescriptionDetail.xaml;Doctor\View\SymptomDetail.xaml;MainWindow.xaml;Patient\View\AccountSetting.xaml;Patient\View\Dashboard.xaml;Patient\View\Feedback.xaml;Patient\View\HomePage.xaml;Patient\View\PatientSignUpForm.xaml;
+
+False
+

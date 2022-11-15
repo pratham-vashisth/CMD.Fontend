@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="c921a328-2ac6-48e0-87ff-d01e7a1ced80" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8732/CMD.Patients.Service/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="04dca4ce-4960-4ae6-a561-dfde2d04e753" SourceId="1" SourceUrl="http://localhost:8732/CMD.Patients.Service/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="dc2bcd48-2b54-40e5-9c31-93151f3e6340" SourceId="1" SourceUrl="http://localhost:8732/CMD.Patients.Service/?disco" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="7a8ca31d-a7c3-4c7b-b746-3aedf8f26dd8" SourceId="1" SourceUrl="http://localhost:8732/CMD.Patients.Service/?xsd=xsd0" />
+    <MetadataFile FileName="PatientService.wsdl" MetadataType="Wsdl" ID="c0b1f5ee-84f1-4604-810a-c37709237807" SourceId="1" SourceUrl="http://localhost:8732/CMD.Patients.Service/?wsdl" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="db1475e6-36f6-4be1-af42-03c9698f4765" SourceId="1" SourceUrl="http://localhost:8732/CMD.Patients.Service/?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

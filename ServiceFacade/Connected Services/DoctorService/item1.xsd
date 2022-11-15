@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/CMD.Doctors.Service" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/CMD.Doctors.Service" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Doctor">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="EmailId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Gender" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Image" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NpiNo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PhoneNo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PracticeLocation" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Speciality" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Doctor" nillable="true" type="tns:Doctor" />
+  <xs:complexType name="ArrayOfDoctor">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Doctor" nillable="true" type="tns:Doctor" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDoctor" nillable="true" type="tns:ArrayOfDoctor" />
+</xs:schema>

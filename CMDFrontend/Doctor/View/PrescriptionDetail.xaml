@@ -1,0 +1,92 @@
+﻿<Window x:Class="CMDFrontend.Doctor.View.PrescriptionDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:CMDFrontend.Doctor.View"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        MaxHeight="520" MinHeight="520"
+        MaxWidth="320" MinWidth="320"
+        Title="PrescriptionDetail" Height="520" Width="320">
+    <Window.Resources>
+        <!--Height="40" FontSize="18" Margin="20,30,20,0" FontStyle="Italic"
+                     BorderThickness="2"  materialDesign:HintAssist.Hint="Medicine"
+                              BorderBrush="{DynamicResource MaterialDesignDivider}"-->
+        <Style x:Key="Styling" TargetType="TextBox">
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Margin" Value="20,30,20,0"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="BorderBrush" Value="{DynamicResource MaterialDesignDivider}"/>
+
+
+        </Style>
+
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" HorizontalAlignment="Center">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="10"/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Content="Prescription Detail" FontSize="24" FontWeight="SemiBold" FontStyle="Italic" Foreground="#0E5E6F" HorizontalAlignment="Center"/>
+                <Button Grid.Column="1"  Background="#0E5E6F" BorderBrush="#0E5E6F" BorderThickness="0" Height="10"/>
+            </Grid>
+
+            <Separator Width="290"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <TextBox Height="40"  FontSize="18" Margin="20,30,20,0" FontStyle="Italic"
+                     BorderThickness="2"  materialDesign:HintAssist.Hint="Medicine"
+                              BorderBrush="{DynamicResource MaterialDesignDivider}"/>
+            <Label Content="Eg: Tablet, Vicks" Foreground="LightGray" Margin="20,0" FontStyle="Italic"/>
+            <TextBox Height="40"  FontSize="18" Margin="20,30,20,0" FontStyle="Italic"
+                     BorderThickness="2"  materialDesign:HintAssist.Hint="Medicine duration"
+                              BorderBrush="{DynamicResource MaterialDesignDivider}" />
+            <Label Content="Eg: Days" Foreground="LightGray" Margin="20,0" FontStyle="Italic"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="170"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0">
+                    <TextBox Height="40"  Width="130" FontSize="18" Margin="20,30,20,0" FontStyle="Italic"
+                     BorderThickness="2"  materialDesign:HintAssist.Hint="Medicine Cycle"
+                              BorderBrush="{DynamicResource MaterialDesignDivider}" />
+                    <Label Content="Eg: Days" Foreground="LightGray" Margin="20,0" FontStyle="Italic"/>
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Row="0" Content="Food" Foreground="LightGray"  Margin="20,30,20,0" FontStyle="Italic"/>
+                        <StackPanel Grid.Row="1" Orientation="Horizontal">
+                            <Label Content="After" Foreground="#0E5E6F" Margin="20,0,0,0" FontStyle="Italic"/>
+                            <ToggleButton/>
+                            <Label Content="Before" Foreground="#0E5E6F" FontStyle="Italic"/>
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+            <TextBox Height="40"  FontSize="18" Margin="20,30,20,0"
+                     BorderThickness="2"  materialDesign:HintAssist.Hint="Medicine Description to Patient"
+                              BorderBrush="{DynamicResource MaterialDesignDivider}" />
+            <Label Content="Eg: Don't use hot water to consume tablets" Foreground="LightGray" FontStyle="Italic" Margin="20,0"/>
+        </StackPanel>
+        <Grid Grid.Row="2" Background="#0E5E6F">
+            <Button x:Name="SymptonButton" Content="Add Medicine" FontSize="24" FontStyle="Italic" Height="60"  Background="#0E5E6F" />
+
+        </Grid>
+    </Grid>
+</Window>

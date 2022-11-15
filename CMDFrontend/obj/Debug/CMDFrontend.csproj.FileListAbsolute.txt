@@ -1,0 +1,347 @@
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.exe.config
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.exe
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignColors.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.AssemblyReference.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step1.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step2.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step3.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\Dashboard.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\HomePage.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\Patient.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\MainWindow.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\AccountSetting.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\Dashboard.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\Feedback.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\HomePage.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\App.baml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step1.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step2.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step3.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\Dashboard.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\HomePage.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\Patient.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\MainWindow.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\AccountSetting.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\Dashboard.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\Feedback.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\HomePage.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\App.g.cs
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.lref
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.g.resources
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.Properties.Resources.resources
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.GenerateResource.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.CoreCompileInputs.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.CopyComplete
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.exe
+C:\Users\shash\OneDrive\Desktop\CMDApplication\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.exe.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.exe
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\CMDFrontend.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\AutoMapper.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignColors.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\ServiceFacade.exe
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\ServiceFacade.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\ServiceFacade.exe.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\AutoMapper.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step1.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step2.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step3.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\Dashboard.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\HomePage.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\Patient.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\MainWindow.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\AccountSetting.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\Dashboard.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\Feedback.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\HomePage.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\App.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.lref
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\App.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step1.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step2.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Appointment\View\Step3.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\Dashboard.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\HomePage.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Doctor\View\Patient.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\MainWindow.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\AccountSetting.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\Dashboard.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\Feedback.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\HomePage.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.baml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.g.resources
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.Properties.Resources.resources
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.GenerateResource.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.exe
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\CMDFrontend\CMDFrontend\obj\Debug\CMDFrontend.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.exe.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.exe
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\AutoMapper.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignColors.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.exe
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.exe.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\AutoMapper.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step1.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step2.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step3.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Dashboard.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\HomePage.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Patient.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\MainWindow.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\AccountSetting.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Dashboard.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Feedback.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\HomePage.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\App.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.lref
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\App.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step1.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step2.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step3.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Dashboard.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\HomePage.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Patient.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\MainWindow.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\AccountSetting.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Dashboard.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Feedback.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\HomePage.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.g.resources
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.Properties.Resources.resources
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.GenerateResource.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.exe
+C:\Users\Paras1610\Desktop\ATMECS GIT\FrontEnd\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\CMDFrontend.exe.config
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\CMDFrontend.exe
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\CMDFrontend.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\AutoMapper.dll
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\MaterialDesignColors.dll
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\ServiceFacade.exe
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\ServiceFacade.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\ServiceFacade.exe.config
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\AutoMapper.xml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Appointment\View\Step1.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Appointment\View\Step2.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Appointment\View\Step3.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\Dashboard.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\HomePage.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\Patient.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\MainWindow.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\AccountSetting.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\Dashboard.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\Feedback.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\HomePage.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\App.g.cs
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.cache
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.lref
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\App.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Appointment\View\Step1.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Appointment\View\Step2.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Appointment\View\Step3.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\Dashboard.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\HomePage.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Doctor\View\Patient.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\MainWindow.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\AccountSetting.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\Dashboard.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\Feedback.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\HomePage.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.baml
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.g.resources
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.Properties.Resources.resources
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.csproj.GenerateResource.cache
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.exe
+C:\Users\Paras1610\Desktop\Final CMD code\frontend gitupdate\CMDFrontend\obj\Debug\CMDFrontend.pdb
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.exe.config
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.exe
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.pdb
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\AutoMapper.dll
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignColors.dll
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.exe
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.pdb
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.exe.config
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\AutoMapper.xml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignColors.pdb
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.AssemblyReference.cache
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step1.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step2.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step3.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Dashboard.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\HomePage.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Patient.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\MainWindow.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\AccountSetting.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Dashboard.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Feedback.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\HomePage.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\App.g.cs
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.cache
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.lref
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\App.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step1.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step2.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step3.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Dashboard.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\HomePage.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Patient.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\MainWindow.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\AccountSetting.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Dashboard.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Feedback.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\HomePage.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.baml
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.g.resources
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.Properties.Resources.resources
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.GenerateResource.cache
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.CoreCompileInputs.cache
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.CopyComplete
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.exe
+C:\Users\prthm\Desktop\gitPull\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.exe.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.exe
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\CMDFrontend.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\AutoMapper.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignColors.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.exe
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\ServiceFacade.exe.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\AutoMapper.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step1.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step2.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step3.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Dashboard.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\HomePage.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Patient.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\PrescriptionDetail.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\SymptomDetail.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\MainWindow.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\AccountSetting.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Dashboard.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Feedback.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\HomePage.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\App.g.cs
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend_MarkupCompile.lref
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\App.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\AppointmentConfirmation.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step1.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step2.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Appointment\View\Step3.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\AccountSetting.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Dashboard.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\DocSignUp.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\FeedbackForm.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\HomePage.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\Patient.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\PrescriptionDetail.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Doctor\View\SymptomDetail.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\MainWindow.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\AccountSetting.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Dashboard.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\Feedback.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\HomePage.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\Patient\View\PatientSignUpForm.baml
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.g.resources
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.Properties.Resources.resources
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.GenerateResource.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.exe
+C:\Users\Paras1610\Desktop\ATMECS GIT\cmd_ui\CMDFrontend\obj\Debug\CMDFrontend.pdb

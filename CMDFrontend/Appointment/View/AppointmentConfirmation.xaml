@@ -1,0 +1,164 @@
+﻿<Window x:Class="CMDFrontend.Appointment.View.AppointmentConfirmation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CMDFrontend.Appointment.View"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+      mc:Ignorable="d"
+      MaxHeight="500" MinHeight="500"
+      MaxWidth="800" MinWidth="800"
+      d:DesignHeight="400" d:DesignWidth="800"
+      Title="AppointmentConfirmation">
+
+    <Grid Background="Gray" Margin="-1,0,1,0">
+        <ListBox x:Name="AppointmentConfirmation1" Grid.Column="0"
+                     Background="White"
+                         Margin="10">
+            <ListBox.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="15"/>
+                </Style>
+            </ListBox.Resources>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Width="750" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <StackPanel Grid.Row="0">
+                            <Label Content="Appointment Confirmation" HorizontalAlignment="Center" FontSize="24"
+                                   FontStyle="Italic"
+                                   FontWeight="Bold" Foreground="#06283D"/>
+                            <Separator/>
+                        </StackPanel>
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="70"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <StackPanel Grid.Row="0">
+                                    <Label Content="Patient" FontStyle="Italic" Foreground="Gray" FontSize="18" HorizontalAlignment="Center"/>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Ellipse Grid.Column="0" Width="60" Height="60"
+                                         VerticalAlignment="Top"
+                                         HorizontalAlignment="Left">
+                                            <Ellipse.Fill>
+                                                <ImageBrush ImageSource="{Binding PatImage}"/>
+                                            </Ellipse.Fill>
+                                        </Ellipse>
+                                        <Grid Width="60">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition/>
+                                            </Grid.RowDefinitions>
+                                            <Label Content="{Binding PatientName}"  Grid.Row="0" FontStyle="Italic" FontWeight="Bold" />
+                                           
+                                        </Grid>
+                                    </StackPanel>
+                                </StackPanel>
+                                <Grid Width="250" Grid.Row="1">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="143*"/>
+                                        <ColumnDefinition Width="107*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition   Height="1"/>
+                                        <RowDefinition Height="10"/>
+                                        <RowDefinition Height="36"/>
+                                        <RowDefinition Height="10"/>
+                                        <RowDefinition Height="36"/>
+                                        <RowDefinition Height="10"/>
+                                        <RowDefinition Height="32"/>
+
+                                    </Grid.RowDefinitions>
+                                    <TextBlock  Grid.Row="1" FontStyle="Italic" FontSize="8" Background="#23aadb" Foreground="White" Width="26" HorizontalAlignment="Left" Margin="112,0,0,0"> Time</TextBlock>
+                                    <Label Content="{Binding Issue}"  Grid.Row="2" Height="28" FontStyle="Italic" BorderBrush="#23aadb" BorderThickness="1" Grid.ColumnSpan="2" Margin="0,4,0,4"/>
+
+                                    <TextBlock Grid.Row="3"  FontSize="8" FontStyle="Italic" Background="#23aadb" Foreground="White" Width="26" HorizontalAlignment="Left" Margin="112,0,0,0">Reason</TextBlock>
+                                    <Label Content="{Binding ReasonForVisit}" Grid.Row="4"  Height="28" FontStyle="Italic" BorderBrush="#23aadb" BorderThickness="1" Grid.ColumnSpan="2" Margin="0,4,0,4"></Label>
+                                    <TextBlock Grid.Row="5"  FontSize="8" FontStyle="Italic" Background="#23aadb" Foreground="White" Width="42" HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="104,0,0,0"> Priscription</TextBlock>
+                                    <Label  Grid.Row="6"  Height="28" FontStyle="Italic" BorderBrush="#23aadb" BorderThickness="1" Grid.ColumnSpan="2" Margin="0,2,0,2"></Label>
+                                </Grid>
+                            </Grid>
+                            <Grid Grid.Column="1">
+                                <Image Source="\Image\AppointmentConfirmLogo.png"
+                                       VerticalAlignment="Top"/>
+                            </Grid>
+                            <Grid Grid.Column="2">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <StackPanel Grid.Row="0">
+                                    <Label Content="PCP" FontStyle="Italic" Foreground="Gray" FontSize="18" HorizontalAlignment="Center"/>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Ellipse Grid.Column="0" Width="60" Height="60"
+                                         VerticalAlignment="Top"
+                                         HorizontalAlignment="Left">
+                                            <Ellipse.Fill>
+                                                <ImageBrush ImageSource="{Binding DocImage}" />
+                                            </Ellipse.Fill>
+                                        </Ellipse>
+                                        <Grid Width="60">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition/>
+                                            </Grid.RowDefinitions>
+                                            <Label Content="{Binding DoctorName}" Grid.Row="0" FontStyle="Italic" FontWeight="Bold"></Label>
+                                            
+                                        </Grid>
+                                    </StackPanel>
+                                </StackPanel>
+                                <Grid Grid.Row="1" Width="250">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="1"></RowDefinition>
+                                        <RowDefinition Height="10"></RowDefinition>
+                                        <RowDefinition Height="36"></RowDefinition>
+                                        <RowDefinition Height="10"></RowDefinition>
+                                        <RowDefinition Height="36"></RowDefinition>
+                                        <RowDefinition Height="10"></RowDefinition>
+                                        <RowDefinition Height="32"></RowDefinition>
+
+                                    </Grid.RowDefinitions>
+                                    <TextBlock Grid.Row="1"  FontSize="8" FontStyle="Italic" Background="#23aadb" Foreground="White" Width="26" HorizontalAlignment="Center"> Speciality</TextBlock>
+
+                                    <Label Content="{Binding Speciality}" Grid.Row="2" Height="28" FontStyle="Italic" BorderBrush="#23aadb" BorderThickness="1" ></Label>
+
+
+                                    <TextBlock Grid.Row="3"  FontSize="8" FontStyle="Italic" Background="#23aadb" Foreground="White" Width="26" HorizontalAlignment="Center"> TimeSlot</TextBlock>
+
+                                    <Label Content="{Binding TimeSlot}"  Grid.Row="4" Height="28" BorderBrush="#23aadb" FontStyle="Italic" BorderThickness="1" ></Label>
+                                   
+                                    <TextBlock Grid.Row="5"  FontSize="8" FontStyle="Italic" Background="#23aadb" Foreground="White" Width="26" HorizontalAlignment="Center"> status</TextBlock>
+
+                                    <Label Content="{Binding Appointment_status}"  Grid.Row="6" Height="28" BorderBrush="#23aadb" FontStyle="Italic" BorderThickness="1" ></Label>
+
+
+
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                        <Button x:Name="BackHomePage" 
+                                Grid.Row="2" 
+                                Content="Exit" 
+                                HorizontalAlignment="Center" 
+                                Click="Exit_click"
+                                FontStyle="Italic"
+                                Background="#06283D" />
+                        <TextBox Name="mynameis"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <materialDesign:TimePicker/>
+        </ListBox>
+    </Grid>
+</Window>

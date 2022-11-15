@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="312f370b-8cd0-4672-a783-2def5cb8e2f6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8735/CMD.Appointments.Service/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="16b71e37-0c7d-43b3-8b82-78b708e53bd4" SourceId="1" SourceUrl="http://localhost:8735/CMD.Appointments.Service/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="b66e97b3-5f6e-456a-991d-9290a2638da8" SourceId="1" SourceUrl="http://localhost:8735/CMD.Appointments.Service/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="940e5c76-11aa-4c9d-a5a4-72054b54b87a" SourceId="1" SourceUrl="http://localhost:8735/CMD.Appointments.Service/?disco" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="230b9d86-f851-42ad-9f3a-fea6107b89ed" SourceId="1" SourceUrl="http://localhost:8735/CMD.Appointments.Service/?xsd=xsd2" />
+    <MetadataFile FileName="AppointmentService.wsdl" MetadataType="Wsdl" ID="1e67b438-4b8e-4f05-9120-38a1afdf86c0" SourceId="1" SourceUrl="http://localhost:8735/CMD.Appointments.Service/?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
